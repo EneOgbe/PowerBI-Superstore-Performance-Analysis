@@ -1,6 +1,5 @@
-git add images/Screenshot\ 2025-11-13\ 185940.png
-git commit -m "Add dashboard image"
-git push
+![Dashboard Image](images/Screenshot%202025-11-13%20185940.png)
+
 
 
 # PowerBI-Superstore-Performance-Analysis
