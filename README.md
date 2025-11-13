@@ -1,6 +1,4 @@
-
-
-# Superstore Performance Analysis — Power BI Project
+images/Screenshot 2025-11-13 185940.png
 
 
 # PowerBI-Superstore-Performance-Analysis
