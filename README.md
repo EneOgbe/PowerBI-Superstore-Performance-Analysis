@@ -1,4 +1,4 @@
-images/Screenshot 2025-11-13 185940.png
+![Dashboard Image](images/Screenshot 2025-11-13 185940.png)
 
 
 # PowerBI-Superstore-Performance-Analysis
