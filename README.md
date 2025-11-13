@@ -1,3 +1,11 @@
+![Screenshot 1](images/Screenshot 2025-11-13 185940.png)
+![Screenshot 2](images/Screenshot 2025-11-13 224145.png)
+![Screenshot 3](images/Screenshot 2025-11-13 224256.png)
+![Screenshot 4](images/Screenshot 2025-11-13 224907.png)
+
+# Superstore Performance Analysis — Power BI Project
+
+
 # PowerBI-Superstore-Performance-Analysis
 Power BI dashboard analyzing Superstore sales, profit, and customer performance.
 
