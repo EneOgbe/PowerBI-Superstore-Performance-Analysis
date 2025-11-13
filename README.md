@@ -1,7 +1,4 @@
-![Screenshot 1](images/Screenshot 2025-11-13 185940.png)
-![Screenshot 2](images/Screenshot 2025-11-13 224145.png)
-![Screenshot 3](images/Screenshot 2025-11-13 224256.png)
-![Screenshot 4](images/Screenshot 2025-11-13 224907.png)
+Screenshot 2025-11-13 185940.png
 
 # Superstore Performance Analysis — Power BI Project
 
