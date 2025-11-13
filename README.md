@@ -1,4 +1,6 @@
-![Dashboard Image](images/Screenshot 2025-11-13 185940.png)
+git add images/Screenshot\ 2025-11-13\ 185940.png
+git commit -m "Add dashboard image"
+git push
 
 
 # PowerBI-Superstore-Performance-Analysis
