@@ -1,4 +1,4 @@
-Screenshot 2025-11-13 185940.png
+
 
 # Superstore Performance Analysis — Power BI Project
 
